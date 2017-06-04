@@ -34,5 +34,11 @@
 
 #grad1 {
     height: 50px;
-    background: linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+    width: 400px;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+video {
+    width: 100%;
+    height: auto;
 }
