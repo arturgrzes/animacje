@@ -15,7 +15,7 @@
     transform: translate(-50%, -50%);
 }
 
-#circle {
+#circle{
     width: 75px;
     height: 75px;
     border-radius: 100%;
@@ -42,3 +42,9 @@ video {
     width: 100%;
     height: auto;
 }
+
+ul {
+   list-style-type: facebook;
+    
+}
+
